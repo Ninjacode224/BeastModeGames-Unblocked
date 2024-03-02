@@ -77,8 +77,8 @@ const Changelog: NextPage = () => {
   return (
     <div className={styles.main}>
       <Head>
-        <title>Ludicrous</title>
-        <meta name="description" content="Ludicrous | A School Site" />
+        <title>Beast Mode Games</title>
+        <meta name="description" content="Beast Mode Games | A School Site" />
         <meta name="theme-color" content="#2467a5" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
