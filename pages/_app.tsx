@@ -23,7 +23,7 @@ g.console.error = new Proxy(g.console.error, {
   }
 })
 
-function Ludicrous({ Component, pageProps }: AppProps) {
+function Beast Mode Games({ Component, pageProps }: AppProps) {
   g.openFrame = async function(url: any, sw: Boolean = false, origin: URL = new URL(location.href)) {
     var el: any = document.getElementById(styles['game-frame']);
 
